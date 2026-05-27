@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Eu me chamo Vinicius Martins 👋
 
-<!--
-**im1vncs/im1vncs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+    Desenvolvedor em <span style="color:#6454f2">constante evolução</span>:
+</h3>
+<p>
+    Focado em tecnologia, interfaces modernas e construção de sistemas digitais.
+    Estou constantemente aprimorando minhas habilidades através de estudos diários, projetos próprios e especializações na plataforma <a href="https://www.alura.com.br/">Alura</a>, onde já conquistei <span style="color:#6454f2">11 certificados</span>.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>
+    Toolkit:
+</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,discord,ps,pr,windows,apple,notion" />
+
