@@ -13,6 +13,6 @@
 <h3>
     Toolkit:
 </h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vercel,discord,ps,pr,ai,windows,apple,notion" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,git,github,vercel,discord,ps,pr,ai,windows,apple,notion" />
 
 <h3>
