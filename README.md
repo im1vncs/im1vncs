@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Vinicius Martins 👋
+<img src="/assets/bannergithubbr.png" alt="Banner GitHub">
 
 <h3>
     Desenvolvedor em <span style="color:#6454f2">constante evolução</span>:
@@ -19,6 +19,7 @@
 
 ---
 
+<h3>
     Toolkit:
 </h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,git,github,vercel,discord,ps,pr,ai,windows,apple,notion" />
