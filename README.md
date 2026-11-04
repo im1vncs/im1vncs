@@ -13,7 +13,7 @@
 <h3>
     Minhas redes:
 <h3>
-<a href="https://www.linkedin.com/in/viniciusmartinsvm" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/viniciusmartinsvm" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank"></a>
 
     Toolkit:
 </h3>
