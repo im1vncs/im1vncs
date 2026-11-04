@@ -22,8 +22,3 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git logo">
 <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" alt="Starship logo">
 </p>
-
-
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,git,github,vercel,discord,ps,pr,ai,windows,apple,notion"/>
-
