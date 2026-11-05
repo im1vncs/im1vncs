@@ -3,9 +3,11 @@
 <h3>
     📈 Desenvolvedor em <span style="color:#6454f2">constante evolução</span>
 </h3>
-<p>
-    > Focado em tecnologia, interfaces modernas e construção de sistemas digitais. Estou constantemente aprimorando minhas habilidades através de estudos diários, projetos próprios e especializações na plataforma <a href="https://www.alura.com.br/">Alura</a>, onde já conquistei <span style="color:#6454f2">13 certificados</span>.
-</p>
+<blockquote>
+    <p>
+        Focado em tecnologia, interfaces modernas e construção de sistemas digitais. Estou constantemente aprimorando minhas habilidades através de estudos diários, projetos próprios e especializações na plataforma <a href="https://www.alura.com.br/">Alura</a>, onde já conquistei <span style="color:#6454f2">13 certificados</span>.
+    </p>
+</blockquote>
 
 ---
 
