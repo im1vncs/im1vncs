@@ -29,10 +29,10 @@
     Alura | <a href="https://cursos.alura.com.br/certificate/45105b21-3f24-4080-a55b-7fe52daa86c9?lang=pt_BR">HTML e CSS: Classes, posicionamento e Flexbox</a>
 </p>
 <p>
-    Alura | <a href="https://cursos.alura.com.br/certificate/a2fe6c95-4b8a-469e-87b1-2052694bd8bf?lang=pt_BR">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags </a>
+    Alura | <a href="https://cursos.alura.com.br/certificate/a2fe6c95-4b8a-469e-87b1-2052694bd8bf?lang=pt_BR">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</a>
 </p>
 <p>
-    Alura | <a href="https://cursos.alura.com.br/certificate/a2fe6c95-4b8a-469e-87b1-2052694bd8bf?lang=pt_BR">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags </a>
+    Alura | <a href="https://cursos.alura.com.br/certificate/76a50af1-9eb2-419b-9c04-e2c42e6a9943?lang=pt_BR">HTML e CSS: trabalhando com responsividade e publicação de projetos</a>
 </p>
 
 <h2>
