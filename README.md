@@ -28,7 +28,6 @@
 ---
 
 <h3>
-    <ul>
         <details>
             <summary>🎓 Certificações</summary>
                 <ul>
@@ -52,5 +51,4 @@
                         </details>
                     </details>
                 </ul>
-    </ul>   
 </h3>
