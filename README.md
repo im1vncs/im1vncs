@@ -14,7 +14,7 @@
 </h3>
 
 <p>
-    <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&Color=white" alt="Claude Code logo">
+    <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code logo">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode logo">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel logo">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo">
