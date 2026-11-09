@@ -28,8 +28,8 @@
 ---
 
 <h3>
-    <ul>
-        <details>
+    <details>
+        <ul>
             <summary>🎓 Certificações</summary>
                     <details>
                         </ul>
@@ -55,6 +55,6 @@
                                 </ul>
                         </ul>
                     </details>
-        </details>
-    </ul>
+        </ul>
+    </details>
 </h3>
