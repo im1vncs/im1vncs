@@ -32,7 +32,7 @@
         <ul>
             <summary>🎓 Certificações</summary>
                     <details>
-                        </ul>
+                        <ul>
                             <summary>🅰️ Alura</summary>
                                 <details>
                                     <ul>
@@ -51,8 +51,8 @@
                                                     <a href="https://cursos.alura.com.br/certificate/76a50af1-9eb2-419b-9c04-e2c42e6a9943?lang=pt_BR">Trabalhando com responsividade e publicação de projetos</a>
                                                 </li>
                                             </ul>
-                                    </details>
-                                </ul>
+                                    </ul>
+                                </details>
                         </ul>
                     </details>
         </ul>
