@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git logo">
     <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" alt="Starship logo">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo">
-    <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white" alt="Home Assistant logo"
+    <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white" alt="Home Assistant logo">
     <img src="https://img.shields.io/badge/Zen%20Browser-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Zen Browser logo">
 </p>
 
