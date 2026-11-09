@@ -30,7 +30,6 @@
 <h3>
     <details>
         <summary>🎓 Certificações</summary>
-            <ul>
                 <details>
                     <summary>🅰️ Alura</summary>
                         <details>
@@ -51,6 +50,5 @@
                                 </ul>
                         </details>
                 </details>
-            </ul>
     </details>
 </h3>
