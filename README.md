@@ -36,6 +36,7 @@
                         <ul>
                             <details>
                                 <summary>📑 HTML & CSS</summary>
+                                    <ul>
                                         <li>
                                             <a href="https://cursos.alura.com.br/certificate/9e8d9637-0c9a-4bcb-92a5-80d2e5c8d116?lang=pt_BR">Cabeçalho, footer e variáveis CSS</a>
                                         </li>
@@ -48,6 +49,7 @@
                                         <li>
                                             <a href="https://cursos.alura.com.br/certificate/76a50af1-9eb2-419b-9c04-e2c42e6a9943?lang=pt_BR">Trabalhando com responsividade e publicação de projetos</a>
                                         </li>
+                                    </ul>
                             </details>
                         </ul>
                 </details>
