@@ -31,6 +31,7 @@
     <ul>
         <details>
             <summary>🎓 Certificações</summary>
+                <ul>
                 <summary>🅰️ Alura</summary>
                     </details>
                         <details>
@@ -40,7 +41,7 @@
                                         <a href="https://cursos.alura.com.br/certificate/9e8d9637-0c9a-4bcb-92a5-80d2e5c8d116?lang=pt_BR">Cabeçalho, footer e variáveis CSS</a>
                                     </li>
                                     <li>
-                                            a href="https://cursos.alura.com.br/certificate/45105b21-3f24-4080-a55b-7fe52daa86c9?lang=pt_BR">Classes, posicionamento e Flexbox</a>
+                                        <a href="https://cursos.alura.com.br/certificate/45105b21-3f24-4080-a55b-7fe52daa86c9?lang=pt_BR">Classes, posicionamento e Flexbox</a>
                                     </li>
                                     <li>
                                         <a href="https://cursos.alura.com.br/certificate/a2fe6c95-4b8a-469e-87b1-2052694bd8bf?lang=pt_BR">Ambientes de desenvolvimento, estrutura de arquivos e tags</a>
@@ -51,5 +52,6 @@
                             </ul>
                         </details>
                     </details>
+                </ul>
     </ul>   
 </h3>
