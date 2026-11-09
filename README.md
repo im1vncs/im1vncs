@@ -33,7 +33,6 @@
             <summary>🎓 Certificações</summary>
                 <ul>
                 <summary>🅰️ Alura</summary>
-                    </details>
                         <details>
                             <ul>
                                 <summary>📑 HTML & CSS</summary>
